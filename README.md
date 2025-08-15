@@ -6,4 +6,4 @@
 
 <br>
 
-<img width="600" height="600" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/b033baf2-e633-4cf4-a2ad-7d0bf4c37346" />
+<img width="300" height="300" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/b033baf2-e633-4cf4-a2ad-7d0bf4c37346" />
